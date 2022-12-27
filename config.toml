@@ -1,0 +1,4 @@
+baseURL = 'https://tomotargz.github.io/'
+languageCode = 'ja-jp'
+title = 'tomotargz.log'
+theme = 'ananke'
