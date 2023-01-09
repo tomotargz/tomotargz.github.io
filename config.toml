@@ -2,6 +2,7 @@ baseURL = 'https://tomotargz.github.io/'
 languageCode = 'ja-jp'
 title = 'tomotargz.log'
 theme = 'ananke'
+googleAnalytics = 'G-V6YK2KZBKR'
 
 [params]
   custom_css = ['custom.css']
