@@ -1,7 +1,7 @@
 baseURL = 'https://tomotargz.github.io/'
 languageCode = 'ja-jp'
 title = 'tomotargz.log'
-theme = 'ananke'
+theme = 'mini'
 googleAnalytics = 'G-V6YK2KZBKR'
 
 [params]
