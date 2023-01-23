@@ -1,8 +1,0 @@
-baseURL = 'https://tomotargz.github.io/'
-languageCode = 'ja-jp'
-title = 'tomotargz.log'
-theme = 'mini'
-googleAnalytics = 'G-V6YK2KZBKR'
-
-[params]
-  custom_css = ['custom.css']

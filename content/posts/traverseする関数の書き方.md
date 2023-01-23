@@ -2,6 +2,8 @@
 title: "Traverseする関数の書き方"
 date: 2023-01-02T22:57:24+09:00
 draft: false
+tags:
+  - "algorithm"
 ---
 
 グラフを探索するコードを書くときに、base-caseをどこで判定すべきか迷うことがある。

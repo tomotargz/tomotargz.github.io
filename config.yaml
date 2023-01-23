@@ -1,0 +1,33 @@
+baseURL: https://tomotargz.github.io
+languageCode: ja-jp
+title: tomotargz.log
+theme: mini
+googleAnalytics: G-V6YK2KZBKR
+
+hasCJKLanguage: true
+paginate: 10
+
+markup:
+  highlight:
+    guessSyntax: true
+    style: monokai
+  tableOfContents:
+    endLevel: 3
+    ordered: false
+    startLevel: 1
+  # needed to render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+  goldmark:
+    extentions:
+      footnote: true
+    renderer:
+      unsafe: true
+
+social:
+  github: https://github.com/tomotargz
+  twitter: https://twitter.com/nakamuratomota
+
+params:
+  author: tomotargz
+  enableRSS: true
+  showToc: true
+  showPowerBy: false
