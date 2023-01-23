@@ -31,3 +31,4 @@ params:
   enableRSS: true
   showToc: true
   showPowerBy: false
+  enableGoogleAnalytics: true
