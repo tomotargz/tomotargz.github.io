@@ -5,3 +5,5 @@ draft: false
 ---
 
 このブログはtomotargzが学んだこと、考えたこと、感じたことを記録する場所です。
+
+旧ブログは[https://tomotargz.hatenablog.com](https://tomotargz.hatenablog.com)です。
